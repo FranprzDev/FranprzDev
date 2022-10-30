@@ -1,6 +1,9 @@
-- 👋 Hola soy @FranprzDev
-- 👀 Estoy interesado en Análisis de Datos y Desarrollo Web
-- 🌱 Actualmente estoy aprendiendo PowerBI, Python y Frontend Developer.
+👋 Hola soy @FranprzDev 🍺🍺
+
+- 👨‍🎓 Cursando la Ingeniería en Sistemas en la Universidad Tecnológica Nacional.
+- 👨🏻‍💻 Estudiante en RollingCodeSchool
+- 👀 Estoy instruyendome en el Desarrollo WEB.
+- 🌱 Aprendiendo actualmente tecnologías enfocadas al Frontend.
 
 <!---
 FranprzDev/FranprzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
