@@ -1,9 +1,9 @@
 👋 Hola soy @FranprzDev 🍺🍺
 
 - 👨‍🎓 Cursando la Ingeniería en Sistemas en la Universidad Tecnológica Nacional.
-- 👨🏻‍💻 Estudiante en RollingCodeSchool
+- 👨🏻‍💻 Becario de RollingCodeSchool
 - 👀 Estoy instruyendome en el Desarrollo WEB.
-- 🌱 Aprendiendo actualmente tecnologías enfocadas al Frontend.
+- 🎫 Frontened Developer ✔️
 
 <!---
 FranprzDev/FranprzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
