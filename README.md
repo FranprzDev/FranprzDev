@@ -9,7 +9,7 @@ Fearless in exploring new technologies, I write clean, efficient code and consis
 
 - 👨‍💻 Full Stack Developer with expertise in Python, .NET, React, and more.
 - 🎓 Systems Engineering Student at Universidad Tecnológica Nacional.
-- 💼 Experience at Rolling Code Studio
+- 💼 Working at Rolling Code Studio
 - 🏆 [NASA Space Apps Hackathon 2024 Winning Project.](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/la-banda-de-marshall/)
 - 💡 Passionate about optimization and continuous improvement.
 
