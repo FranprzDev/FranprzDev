@@ -34,6 +34,15 @@ Python · TypeScript · Go · Next.js · React · NestJS · Node · Postgres · 
 
 `LangChain · LangGraph · n8n · RAG · agent harness · tool calling · Playwright`
 
+## Stats
+
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranprzDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranprzDev&layout=compact&theme=tokyonight&hide_border=true)
+
+<div>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franprzdev-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/franprzdev)
