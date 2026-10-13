@@ -12,6 +12,7 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 - **Software / AI Engineer @ RepuestoShop** (Dec 2025 – present) — multi-agent systems + custom RAG with LangChain/LangGraph, internal tools on Meta APIs, and scraping pipelines for data grounding.
 - **Full-Stack Developer (volunteer) @ Fundación Líderes de Ansenuza** (Apr 2025 – present) — leading the foundation's digital transformation: web platform and internal management tools.
+- **Studying and going deeper into AI** — agents, RAG and LLM engineering, alongside my final year of Information Systems Engineering at UTN-FRT.
 
 ## Selected work
 
