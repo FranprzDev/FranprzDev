@@ -18,6 +18,8 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 **[Proofy](https://github.com/FranprzDev/Proofy)** — *Superteam Argentina hackathon (Colosseum), Oct 2026.* An AI agent turns a contract's scope into verifiable milestones, and a Solana escrow program (Anchor) releases SOL per milestone based on CI/CD evidence. Devnet prototype. [Live app](https://proofyai.vercel.app) · [Colosseum page](https://colosseum.com/arena/projects/proofy-1)
 
+**[Scope-to-Profit](https://github.com/FranprzDev/ScopeProfit)** — *scope copilot for freelancers and agencies, 2026.* An AI agent turns a client's scattered ideas (text and images) into a formal scope document: requirements with quotes, blocking questions, risks, in/out of scope and an hour-range estimate. Client chat in Next.js, the professional manages projects from a Telegram bot, and a backend agent keeps a versioned brief in PostgreSQL and exports PDF/DOCX. [Live app](https://scope-profit-web.vercel.app)
+
 **Tax-deadline platform for La Vista Casal** — *freelance, Nov 2025 – Aug 2026.* Co-built an accounting firm's tax due-date calendar with approval flows, change history, and Google Calendar/Gmail integration. Running in production, delivered with a technical report, executive summary, and user guide.
 
 **[n8n-nodes-timed-buffer](https://github.com/FranprzDev/n8n-nodes-timed-buffer)** — a published community n8n node: a Redis-backed, time-windowed message buffer. Built because n8n had no clean way to batch bursts of events.
