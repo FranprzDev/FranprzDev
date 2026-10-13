@@ -22,17 +22,15 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 **Tax-deadline platform for La Vista Casal** — *freelance, Nov 2025 – Aug 2026.* Co-built an accounting firm's tax due-date calendar with approval flows, change history, and Google Calendar/Gmail integration. Running in production, delivered with a technical report, executive summary, and user guide.
 
-**[n8n-nodes-timed-buffer](https://github.com/FranprzDev/n8n-nodes-timed-buffer)** — a published community n8n node: a Redis-backed, time-windowed message buffer. Built because n8n had no clean way to batch bursts of events.
-
 **[Scrapping-Repuestos-UY-API](https://github.com/FranprzDev/Scrapping-Repuestos-UY-API)** — NestJS API that turns messy spare-parts catalogs into clean data: HTTP + JSON-LD first, Playwright fallback, quality gate.
 
 **[apuntes-cli](https://github.com/FranprzDev/apuntes-cli)** — CLI that turns raw class material into compact FAQs and final-exam notes, per subject.
 
-*Also around:* [gpozos-game](https://github.com/FranprzDev/gpozos-game) (water-network investments vs a Linear Programming optimum).
+*Also around:* [gpozos-game](https://github.com/FranprzDev/gpozos-game) (water-network investments vs a Linear Programming optimum) · contributed improvements to [n8n-nodes-timed-buffer](https://github.com/IAntropo/n8n-nodes-timed-buffer) (community node by IAntropo).
 
 ## Background
 
-- **Instructor, Process Automation with n8n — Tucumán Judiciary** (Sep – Oct 2025) — designed and taught a 20h course for court staff (own materials, live builds, APIs/webhooks, RAG + human-in-the-loop) and presented the automation strategy to leadership.
+- **Taught Process Automation with n8n — Tucumán Judiciary** (Sep – Oct 2025) — designed and delivered a 20h course for court staff (own materials, live builds, APIs/webhooks, RAG + human-in-the-loop) and presented the automation strategy to leadership.
 - **Product Engineer @ RollingCode Studio** (Oct 2024 – Dec 2025) — frontend and backend features for client web projects in Scrum teams with Git Flow and code review; automated internal tasks with n8n.
 - **Teaching Assistant, Web & Backend @ RollingCode School** (Nov 2023 – Aug 2024)
 
