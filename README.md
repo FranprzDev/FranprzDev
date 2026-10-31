@@ -38,6 +38,8 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 - **Superteam Argentina / Colosseum 2026** — [Proofy](https://github.com/FranprzDev/Proofy), co-created with Dylan (submitted)
 - **Contar con Datos 2026 — UdeSA × SSCyT Tucumán** (Oct 2026) — visual-story category: a 60-second video about fires in Argentina built only from open data (NASA FIRMS VIIRS hotspots, MODIS burned area, Copernicus Sentinel-2), rendered entirely in code. Awaiting result.
+- **NAUFest Challenge #AIforImpact — JA Américas × HP** (Oct 2026) — individual entry: an AI proposal to turn NASA satellite hotspots into wildfire alerts and coordinated response across Argentina. Submitted, awaiting the jury.
+- **BNB Builder Session — Tucumán** (Oct 2026) — presented [Presu](https://github.com/FranprzDev/presu), a ChatGPT app prototype that builds client quotes. Participation event, no prizes.
 - **NASA Space Apps 2024** — National Winner ([ExoGames](https://github.com/FranprzDev/NASASpaceApp-Marshall-Arg)) · **2025** — national competitor ([BeeAgro](https://github.com/FranprzDev/BeeAgro-Spanish))
 - **Vortex Software n8n Hackathon 2025** — on-site, Tucumán
 - **Youth Hackathon 2025 — UNESCO** — participant
