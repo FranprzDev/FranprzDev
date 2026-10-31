@@ -20,8 +20,6 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 **[Scope-to-Profit](https://github.com/FranprzDev/ScopeProfit)** — *scope copilot for freelancers and agencies, 2026.* An AI agent turns a client's scattered ideas (text and images) into a formal scope document: requirements with quotes, blocking questions, risks, in/out of scope and an hour-range estimate. Client chat in Next.js, the professional manages projects from a Telegram bot, and a backend agent keeps a versioned brief in PostgreSQL and exports PDF/DOCX. [Live app](https://scope-profit-web.vercel.app)
 
-**Tax-deadline platform for La Vista Casal** — *freelance, Nov 2025 – Aug 2026.* Co-built an accounting firm's tax due-date calendar with approval flows, change history, and Google Calendar/Gmail integration. Running in production, delivered with a technical report, executive summary, and user guide.
-
 **[Scrapping-Repuestos-UY-API](https://github.com/FranprzDev/Scrapping-Repuestos-UY-API)** — NestJS API that turns messy spare-parts catalogs into clean data: HTTP + JSON-LD first, Playwright fallback, quality gate.
 
 **[apuntes-cli](https://github.com/FranprzDev/apuntes-cli)** — CLI that turns raw class material into compact FAQs and final-exam notes, per subject.
