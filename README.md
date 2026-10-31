@@ -4,23 +4,24 @@
 
 Software / AI Engineer in Tucumán, Argentina · final-year Information Systems Engineering @ UTN-FRT. I turn messy real-world problems into working software, usually with an LLM in the loop.
 
+🌐 **Portfolio:** [franprz.vercel.app](https://franprz.vercel.app)
+
 🏆 **NASA Space Apps 2024 — National Winner** ([ExoGames](https://github.com/FranprzDev/NASASpaceApp-Marshall-Arg)) · national competitor 2025 ([BeeAgro](https://github.com/FranprzDev/BeeAgro-Spanish))
 
 ---
 
 ## What I'm doing now
 
-- **Software / AI Engineer @ RepuestoShop** (Dec 2025 – present) — multi-agent systems + custom RAG with LangChain/LangGraph, internal tools on Meta APIs, and scraping pipelines for data grounding.
 - **Full-Stack Developer (volunteer) @ Fundación Líderes de Ansenuza** (Apr 2025 – present) — leading the foundation's digital transformation: web platform and internal management tools.
 - **Studying and going deeper into AI** — agents, RAG and LLM engineering, alongside my final year of Information Systems Engineering at UTN-FRT.
 
 ## Selected work
 
-**[Proofy](https://github.com/FranprzDev/Proofy)** — *Superteam Argentina hackathon (Colosseum), Oct 2026.* An AI agent turns a contract's scope into verifiable milestones, and a Solana escrow program (Anchor) releases SOL per milestone based on CI/CD evidence. Devnet prototype. [Live app](https://proofyai.vercel.app) · [Colosseum page](https://colosseum.com/arena/projects/proofy-1)
+**[Proofy](https://github.com/FranprzDev/Proofy)** — *Superteam Argentina hackathon (Colosseum), Oct 2026. Co-created with Dylan.* An AI agent turns a contract's scope into verifiable milestones, and a Solana escrow program (Anchor) releases SOL per milestone based on CI/CD evidence. Devnet prototype. [Live app](https://proofyai.vercel.app) · [Colosseum page](https://colosseum.com/arena/projects/proofy-1)
 
 **[Scope-to-Profit](https://github.com/FranprzDev/ScopeProfit)** — *scope copilot for freelancers and agencies, 2026.* An AI agent turns a client's scattered ideas (text and images) into a formal scope document: requirements with quotes, blocking questions, risks, in/out of scope and an hour-range estimate. Client chat in Next.js, the professional manages projects from a Telegram bot, and a backend agent keeps a versioned brief in PostgreSQL and exports PDF/DOCX. [Live app](https://scope-profit-web.vercel.app)
 
-**Tax-deadline platform for La Vista Casal** — *freelance, Nov 2025 – Aug 2026.* Co-built an accounting firm's tax due-date calendar with approval flows, change history, and Google Calendar/Gmail integration. Running in production, delivered with a technical report, executive summary, and user guide.
+**Tax-deadline platform for La Vista Casal** — *freelance, Nov 2025 – Aug 2026. Co-built with Thiago Kuperman.* An accounting firm's tax due-date calendar with approval flows, change history, and Google Calendar/Gmail integration. Running in production, delivered with a technical report, executive summary, and user guide.
 
 **[Scrapping-Repuestos-UY-API](https://github.com/FranprzDev/Scrapping-Repuestos-UY-API)** — NestJS API that turns messy spare-parts catalogs into clean data: HTTP + JSON-LD first, Playwright fallback, quality gate.
 
@@ -30,15 +31,18 @@ Software / AI Engineer in Tucumán, Argentina · final-year Information Systems 
 
 ## Background
 
+- **AI Engineer (part-time) @ RepuestoShop** (Dec 2025 – Oct 2026) — designed and deployed custom multi-agent systems and RAG pipelines, with focus on agent harness, tool calling, and context control; internal tools on Meta APIs and scraping pipelines for data grounding.
 - **Taught Process Automation with n8n — Tucumán Judiciary** (Sep – Oct 2025) — designed and delivered a 20h course for court staff (own materials, live builds, APIs/webhooks, RAG + human-in-the-loop) and presented the automation strategy to leadership.
 - **Product Engineer @ RollingCode Studio** (Oct 2024 – Dec 2025) — frontend and backend features for client web projects in Scrum teams with Git Flow and code review; automated internal tasks with n8n.
 - **Teaching Assistant, Web & Backend @ RollingCode School** (Nov 2023 – Aug 2024)
 
 ## Hackathons
 
-- **Superteam Argentina / Colosseum 2026** — [Proofy](https://github.com/FranprzDev/Proofy) (submitted)
+- **Superteam Argentina / Colosseum 2026** — [Proofy](https://github.com/FranprzDev/Proofy), co-created with Dylan (submitted)
+- **Contar con Datos 2026 — UdeSA × SSCyT Tucumán** (Oct 2026) — visual-story category: a 60-second video about fires in Argentina built only from open data (NASA FIRMS VIIRS hotspots, MODIS burned area, Copernicus Sentinel-2), rendered entirely in code. Awaiting result.
 - **NASA Space Apps 2024** — National Winner ([ExoGames](https://github.com/FranprzDev/NASASpaceApp-Marshall-Arg)) · **2025** — national competitor ([BeeAgro](https://github.com/FranprzDev/BeeAgro-Spanish))
 - **Vortex Software n8n Hackathon 2025** — on-site, Tucumán
+- **Youth Hackathon 2025 — UNESCO** — participant
 
 ## Stack
 
@@ -57,5 +61,6 @@ TypeScript · JavaScript · Python · SQL · Next.js · React · Tailwind · Nes
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-franprz.vercel.app-000000?style=flat&logo=vercel)](https://franprz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franprzdev-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/franprzdev)
 [![Email](https://img.shields.io/badge/Email-franciscoperezdeveloper@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:franciscoperezdeveloper@gmail.com)
