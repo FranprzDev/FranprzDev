@@ -52,8 +52,8 @@ TypeScript · JavaScript · Python · SQL · Next.js · React · Tailwind · Nes
 
 ## Stats
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranprzDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranprzDev&layout=compact&theme=tokyonight&hide_border=true)
+![Francisco's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranprzDev&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranprzDev&theme=tokyonight)
 
 <div>
     <img src="./profile-3d-contrib/profile-night-rainbow.svg">
